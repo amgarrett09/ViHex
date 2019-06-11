@@ -1,4 +1,4 @@
-#ViHex
+# ViHex
 
 This is a hex editor written in Rust that aims to have a similar style of
 navigation to Vim.
